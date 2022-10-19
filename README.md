@@ -6,7 +6,7 @@ This repository consists of Customer service it is one of the services in the mi
 
 To begin using this framework, choose one of the following options to get started:
 * Clone the repo: `git clone [https://github.com/pourabkarchaudhuri/customer-microservice.git)`
-* [Fork, Clone, or Download on GitHub]([https://github.com/pourabkarchaudhuri/customer-microservice.git))
+* [Fork, Clone, or Download on GitHub](https://github.com/pourabkarchaudhuri/customer-microservice.git)
 
 ### Technology
 
